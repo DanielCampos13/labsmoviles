@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smallGap">16dp</dimen>
+    <dimen name="midGap">24dp</dimen>
+    <dimen name="bigGap">32dp</dimen>
+</resources>
